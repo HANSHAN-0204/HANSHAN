@@ -1,0 +1,206 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexming.css);
+@import url(https://fonts.googleapis.com/css2?family=Satisfy&display=swap);
+
+html {
+    min-width: 375px;
+    overflow-x: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #efe6ce;
+}
+
+div.center {
+    display: flex;
+    justify-content: center;
+}
+
+#navbar {
+    width: 100%;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    top: 0;
+    z-index: 999;
+    position: sticky;
+    background: #73876a;
+}
+
+#navbar_title {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    line-height: 1rem;
+    font-family: 'Satisfy', cursive;
+    font-size: 1rem;
+    color: #efe6ce;
+}
+
+button.navbarButton {
+    width: 4rem;
+    height: 2.5rem;
+    outline: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-family: 'cwTeXFangSong', serif;
+    font-size: 1.2rem;
+    color: #efe6ce;
+}
+
+#hanshan1 {
+    width: 100%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+#profile {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 3.5rem;
+    border: 1px solid;
+    border-color: #73876a;
+    margin-left: 2rem;
+    overflow: hidden;
+}
+
+#profilePhoto {
+    width: 7rem;
+    height: auto;
+    object-fit: cover;
+}
+
+#sentence {
+    width: 100%;
+    height: 10rem;
+    margin-left: 2rem;
+}
+
+#sentence_English {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: 'Satisfy', cursive;
+    font-size: 1.5rem;
+    color: #73876a;
+}
+
+#sentence_formula {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-left: 3rem;
+    font-size: 1.3rem;
+}
+
+#sentence_Chinese {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-top: -1rem;
+    font-family: 'cwTeXFangSong', serif;
+    font-size: 1.1rem;
+    color: #73876a;
+}
+
+#temM2 {
+    margin-left: 12rem;
+}
+
+#temM4 {
+    margin-left: 11rem;
+}
+
+
+#temM5 {
+    display: none;
+}
+
+
+span.English {
+    font-family: 'Satisfy', cursive;
+}
+
+span.move {
+    margin-left: 1rem;
+}
+
+#introduction {
+    clear: both;
+}
+
+div.basic {
+    margin-left: 2rem;
+}
+
+#tem1 {
+    padding-top: 2rem;
+}
+
+p.introduction_B {
+    font-family: 'cwTeXFangSong', serif;
+    font-size: 1.1rem;
+    font-weight: bolder;
+    color: #56654f;
+}
+
+p.introduction {
+    font-family: 'cwTeXFangSong', serif;
+    font-size: 1.1rem;
+    color: #56654f;
+}
+
+#hanshan2 {
+    width: 100%;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+#hanshan3 {
+    width: 100%;
+    height: 100vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+a.link {
+    text-decoration: none;
+    font-family: 'cwTeXFangSong', serif;
+    font-size: 1.2rem;
+    color: #73876a;
+}
+
+a.link:hover {
+    text-decoration: underline;
+    color: #56654f;
+}
+
+#hanshan4 {
+    width: 100%;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+#hanshan5 {
+    width: 100%;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+#hanshan6 {
+    width: 100%;
+    height: 100vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
