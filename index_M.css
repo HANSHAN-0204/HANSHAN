@@ -22,7 +22,7 @@ div.center {
 
 #navbar {
     width: 100%;
-    height: 2.5rem;
+    height: 2.2rem;
     display: flex;
     justify-content: center;
     top: 0;
@@ -38,21 +38,21 @@ div.center {
     user-select: none;
     margin-left: 1rem;
     margin-right: 1rem;
-    line-height: 1rem;
+    line-height: 0.5rem;
     font-family: 'Satisfy', cursive;
     font-size: 1rem;
     color: #efe6ce;
 }
 
 button.navbarButton {
-    width: 4rem;
-    height: 2.5rem;
+    width: 2.5rem;
+    height: 2.25rem;
     outline: none;
     border: none;
     background: none;
     cursor: pointer;
     font-family: 'cwTeXFangSong', serif;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
     color: #efe6ce;
 }
 
@@ -90,7 +90,7 @@ button.navbarButton {
     -ms-user-select: none;
     user-select: none;
     font-family: 'Satisfy', cursive;
-    font-size: 1.5rem;
+    font-size: 1.05rem;
     color: #73876a;
 }
 
@@ -99,8 +99,8 @@ button.navbarButton {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    margin-left: 3rem;
-    font-size: 1.3rem;
+    margin-left: 2rem;
+    font-size: 1rem;
 }
 
 #sentence_Chinese {
@@ -110,16 +110,16 @@ button.navbarButton {
     user-select: none;
     margin-top: -1rem;
     font-family: 'cwTeXFangSong', serif;
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #73876a;
 }
 
 #temM2 {
-    margin-left: 12rem;
+    margin-left: 7rem;
 }
 
 #temM4 {
-    margin-left: 11rem;
+    margin-left: 6rem;
 }
 
 
@@ -150,34 +150,34 @@ div.basic {
 
 p.introduction_B {
     font-family: 'cwTeXFangSong', serif;
-    font-size: 1.1rem;
+    font-size: 0.95rem;
     font-weight: bolder;
     color: #56654f;
 }
 
 p.introduction {
     font-family: 'cwTeXFangSong', serif;
-    font-size: 1.1rem;
+    font-size: 0.95rem;
     color: #56654f;
 }
 
 #hanshan2 {
     width: 100%;
-    margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 #hanshan3 {
     width: 100%;
     height: 100vh;
-    margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 a.link {
     text-decoration: none;
     font-family: 'cwTeXFangSong', serif;
-    font-size: 1.2rem;
+    font-size: 0.95rem;
     color: #73876a;
 }
 
@@ -188,19 +188,19 @@ a.link:hover {
 
 #hanshan4 {
     width: 100%;
-    margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 #hanshan5 {
     width: 100%;
-    margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 #hanshan6 {
     width: 100%;
     height: 100vh;
-    margin-top: 10vh;
-    margin-bottom: 10vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
