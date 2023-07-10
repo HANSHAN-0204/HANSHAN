@@ -157,6 +157,7 @@ p.introduction_B {
 
 p.introduction {
     margin-right: 2rem;
+    line-height: 1.2rem;
     font-family: 'cwTeXFangSong', serif;
     font-size: 0.95rem;
     color: #56654f;
@@ -204,4 +205,10 @@ a.link:hover {
     height: 100vh;
     margin-top: 4rem;
     margin-bottom: 3rem;
+}
+
+img.photo {
+    height: 8rem;
+    object-fit: cover;
+    background: #ffffff;
 }
